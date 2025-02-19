@@ -30,7 +30,7 @@
     "eslint-config-prettier": "8",
     "eslint-plugin-jsdoc": "36",
     "eslint-plugin-prettier": "4",
-    "mocha": "9",
+    "mocha": "11",
     "prettier": "2",
     "uglify-js": "3"
   },
